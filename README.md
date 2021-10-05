@@ -1,5 +1,9 @@
 ## Art by Ms. Sincerity
 
+### Cafe Scene Line Art
+
+<div align="center"><img src="2021-09-25_184312 - cerity + globo collab cafe lineart.png" width="800" height="600" alt="Cafe scene line art" /></div>
+
 You can use the [editor on GitHub](https://github.com/mssincerity/mssincerity.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
